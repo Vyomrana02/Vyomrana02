@@ -28,7 +28,7 @@
 <p><a href="https://www.buymeacoffee.com/vyomrana02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vyomrana02" /></a></p><br><br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyomrana02&show_icons=true&locale=en&layout=compact" alt="vyomrana02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyomrana02&show_icons=true&locale=en&layout=compact" alt="vyomrana02" /></p><br>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyomrana02&show_icons=true&locale=en" alt="vyomrana02" /></p>
