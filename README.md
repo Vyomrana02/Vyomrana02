@@ -39,11 +39,10 @@
 <br>
 <h2> Stuff I worked on </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyomrana02&show_icons=true&locale=en&layout=compact" alt="vyomrana02" /></p>
+<br>
 
 
-<br>
-<br>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyomrana02&show_icons=true&locale=en" alt="vyomrana02" /></p>
 <br>
