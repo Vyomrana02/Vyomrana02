@@ -37,8 +37,11 @@
 <p><a href="https://www.buymeacoffee.com/vyomrana02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vyomrana02" /></a></p><br><br>
 <br>
 <br>
-<h2> Stuff I worked on last week   </h2>
+<h2> Stuff I worked on </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyomrana02&show_icons=true&locale=en&layout=compact" alt="vyomrana02" /></p>
+
+
+<br>
 <br>
 <br>
 
