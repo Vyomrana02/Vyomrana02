@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyom Rana<br></h1>
 
 
-<br>
-
+<br
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
