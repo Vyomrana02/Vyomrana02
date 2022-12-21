@@ -21,11 +21,8 @@
 <a href="https://linkedin.com/in/vyomrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyomrana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vyom_rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vyom_rana" height="30" width="40" /></a>
 <a href="https://instagram.com/vyom.rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vyom.rana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vyomrana_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vyomrana_02" height="30" width="40" /></a>
+SW<a href="https://www.codechef.com/users/vyomrana_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vyomrana_02" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vyomrana02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vyomrana02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vyomrana02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vyomrana02" height="30" width="40" /></a>
-</p>
-
 
 
 
