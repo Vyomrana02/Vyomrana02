@@ -73,6 +73,7 @@ Hello, I am [Vyom Rana](https://www.linkedin.com/in/vyomrana/) and I love workin
     <img src="https://github-readme-stats.vercel.app/api?username=Vyomrana02&count_private=true&show_icons=true&hide_border=true&theme=algolia"
                     width="51%" />
 </a>
+[![Vyom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vyomrana02&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Vyomrana02/github-readme-activity-graph)
 <a href="https://github.com/Vyomrana02?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomrana02&layout=compact&langs_count=10&hide_border=true&theme=algolia"
                     width="48%" />
