@@ -69,20 +69,16 @@ Hello, I am [Vyom Rana](https://www.linkedin.com/in/vyomrana/) and I love workin
 
 # Github Stats 📈
 
-<a href="https://github.com/Vyomrana02">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vyomrana02&count_private=true&show_icons=true&hide_border=true&theme=algolia"
-                    width="51%" />
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-[![Vyom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vyomrana02&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Vyomrana02/github-readme-activity-graph)
-<a href="https://github.com/Vyomrana02?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomrana02&layout=compact&langs_count=10&hide_border=true&theme=algolia"
-                    width="48%" />
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 
-<br><br>
-![Vyomrana02](https://activity-graph.herokuapp.com/graph?username=Vyomrana02&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true) 
-<img src="https://activity-graph.herokuapp.com/graph?username=Vyomrana02&show_icons=true&count_private=true&area=true&hide_border=true" /> 
-
+ 
 <h3 align="center">Find me here:</h3>
 <p align="center">
  <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vyomrana02/" height="30" width="40" /></a>
