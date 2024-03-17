@@ -82,8 +82,6 @@ Hello, I am [Vyom Rana](https://www.linkedin.com/in/vyomrana/) and I love workin
 <h3 align="center">Find me here:</h3>
 <p align="center">
  <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vyomrana02/" height="30" width="40" /></a>
-
  <a href="https://www.linkedin.com/in/vyomrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyomrana" height="30" width="40" /></a>
 <a href="https://medium.com/@vyom.rana02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vyom.rana02" height="30" width="40" /></a>
-
 </p>
